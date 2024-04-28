@@ -1,0 +1,17 @@
+.box{
+    background-color: #22F4DA;
+    border: #22F4DA solid;
+    border-radius: 30px;
+    width: 1249px;
+    height: 376px;
+    margin-right: 105px;   
+    margin-top: 73px;
+    margin-bottom: 575px;
+    margin-left: 86px; 
+}
+p{
+    padding-left: 536px;
+    padding-top: 29px;
+    padding-right: 536px;
+    font-size: 32px;
+}
